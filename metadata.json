@@ -1,0 +1,6 @@
+{
+  "name": "Mimi Botanical Study Haven",
+  "description": "A mindful botanical study companion app for quiet focus, cognitive load balancing, and reflective learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
